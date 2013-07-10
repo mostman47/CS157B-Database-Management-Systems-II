@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Airport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="airport.xsd">
+  <TableAirport>
+    <AirportCode>TMK</AirportCode>
+    <CityOrAirportName>TAM-KY</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>7</GMTOffset>
+    <RunwayLengthFeet>3920</RunwayLengthFeet>
+    <RunwayElevationFeet>33</RunwayElevationFeet>
+    <LatitudeDegree>15</LatitudeDegree>
+    <LatitudeMinute>34</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>29</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>TMK</AirportCode>
+    <CityOrAirportName>TAM-KY</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>7</GMTOffset>
+    <RunwayLengthFeet>3920</RunwayLengthFeet>
+    <RunwayElevationFeet>33</RunwayElevationFeet>
+    <LatitudeDegree>15</LatitudeDegree>
+    <LatitudeMinute>34</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>29</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>UIH</AirportCode>
+    <CityOrAirportName>QUINHON</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>5081</RunwayLengthFeet>
+    <RunwayElevationFeet>25</RunwayElevationFeet>
+    <LatitudeDegree>13</LatitudeDegree>
+    <LatitudeMinute>46</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>109</LongitudeDegree>
+    <LongitudeMinute>13</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>UIH</AirportCode>
+    <CityOrAirportName>QUINHON</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>5081</RunwayLengthFeet>
+    <RunwayElevationFeet>25</RunwayElevationFeet>
+    <LatitudeDegree>13</LatitudeDegree>
+    <LatitudeMinute>46</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>109</LongitudeDegree>
+    <LongitudeMinute>13</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>VCA</AirportCode>
+    <CityOrAirportName>CAN THO</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3920</RunwayLengthFeet>
+    <RunwayElevationFeet>7</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>3</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>46</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>VCA</AirportCode>
+    <CityOrAirportName>CAN THO</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3920</RunwayLengthFeet>
+    <RunwayElevationFeet>7</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>3</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>46</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HAN</AirportCode>
+    <CityOrAirportName>HANOI NOIBAI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>6562</RunwayLengthFeet>
+    <RunwayElevationFeet>26</RunwayElevationFeet>
+    <LatitudeDegree>21</LatitudeDegree>
+    <LatitudeMinute>2</LatitudeMinute>
+    <LatitudeSecond>9</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>53</LongitudeMinute>
+    <LongitudeSeconds>24</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HAN</AirportCode>
+    <CityOrAirportName>HANOI NOIBAI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>6562</RunwayLengthFeet>
+    <RunwayElevationFeet>26</RunwayElevationFeet>
+    <LatitudeDegree>21</LatitudeDegree>
+    <LatitudeMinute>2</LatitudeMinute>
+    <LatitudeSecond>9</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>53</LongitudeMinute>
+    <LongitudeSeconds>24</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HBN</AirportCode>
+    <CityOrAirportName>PHUBON</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>0</RunwayElevationFeet>
+    <LatitudeDegree>12</LatitudeDegree>
+    <LatitudeMinute>0</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>0</LongitudeMinute>
+    <LongitudeSeconds>30</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HBN</AirportCode>
+    <CityOrAirportName>PHUBON</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>0</RunwayElevationFeet>
+    <LatitudeDegree>12</LatitudeDegree>
+    <LatitudeMinute>0</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>0</LongitudeMinute>
+    <LongitudeSeconds>30</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>BMV</AirportCode>
+    <CityOrAirportName>BAN ME THUOT PHUNG DUC</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>5905</RunwayLengthFeet>
+    <RunwayElevationFeet>1758</RunwayElevationFeet>
+    <LatitudeDegree>12</LatitudeDegree>
+    <LatitudeMinute>40</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>6</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>BMV</AirportCode>
+    <CityOrAirportName>BAN ME THUOT PHUNG DUC</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>5905</RunwayLengthFeet>
+    <RunwayElevationFeet>1758</RunwayElevationFeet>
+    <LatitudeDegree>12</LatitudeDegree>
+    <LatitudeMinute>40</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>6</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>NHA</AirportCode>
+    <CityOrAirportName>NHA-TRANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>6166</RunwayLengthFeet>
+    <RunwayElevationFeet>16</RunwayElevationFeet>
+    <LatitudeDegree>12</LatitudeDegree>
+    <LatitudeMinute>14</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>109</LongitudeDegree>
+    <LongitudeMinute>11</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>NHA</AirportCode>
+    <CityOrAirportName>NHA-TRANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>6166</RunwayLengthFeet>
+    <RunwayElevationFeet>16</RunwayElevationFeet>
+    <LatitudeDegree>12</LatitudeDegree>
+    <LatitudeMinute>14</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>109</LongitudeDegree>
+    <LongitudeMinute>11</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>VKG</AirportCode>
+    <CityOrAirportName>RACH GIA</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3767</RunwayLengthFeet>
+    <RunwayElevationFeet>13</RunwayElevationFeet>
+    <LatitudeDegree>9</LatitudeDegree>
+    <LatitudeMinute>59</LatitudeMinute>
+    <LatitudeSecond>43</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>5</LongitudeMinute>
+    <LongitudeSeconds>45</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>VKG</AirportCode>
+    <CityOrAirportName>RACH GIA</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3767</RunwayLengthFeet>
+    <RunwayElevationFeet>13</RunwayElevationFeet>
+    <LatitudeDegree>9</LatitudeDegree>
+    <LatitudeMinute>59</LatitudeMinute>
+    <LatitudeSecond>43</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>5</LongitudeMinute>
+    <LongitudeSeconds>45</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>VSO</AirportCode>
+    <CityOrAirportName>PHUOC LONG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3380</RunwayLengthFeet>
+    <RunwayElevationFeet>797</RunwayElevationFeet>
+    <LatitudeDegree>9</LatitudeDegree>
+    <LatitudeMinute>26</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>28</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>VSO</AirportCode>
+    <CityOrAirportName>PHUOC LONG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3380</RunwayLengthFeet>
+    <RunwayElevationFeet>797</RunwayElevationFeet>
+    <LatitudeDegree>9</LatitudeDegree>
+    <LatitudeMinute>26</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>28</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>XLO</AirportCode>
+    <CityOrAirportName>LONG XUYEN</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3445</RunwayLengthFeet>
+    <RunwayElevationFeet>16</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>29</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>27</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>XLO</AirportCode>
+    <CityOrAirportName>LONG XUYEN</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3445</RunwayLengthFeet>
+    <RunwayElevationFeet>16</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>29</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>27</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>XNG</AirportCode>
+    <CityOrAirportName>QUANG NGAI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>4936</RunwayLengthFeet>
+    <RunwayElevationFeet>36</RunwayElevationFeet>
+    <LatitudeDegree>15</LatitudeDegree>
+    <LatitudeMinute>7</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>45</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>XNG</AirportCode>
+    <CityOrAirportName>QUANG NGAI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>4936</RunwayLengthFeet>
+    <RunwayElevationFeet>36</RunwayElevationFeet>
+    <LatitudeDegree>15</LatitudeDegree>
+    <LatitudeMinute>7</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>45</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>XVL</AirportCode>
+    <CityOrAirportName>VINH LONG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>2990</RunwayLengthFeet>
+    <RunwayElevationFeet>10</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>15</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>57</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>XVL</AirportCode>
+    <CityOrAirportName>VINH LONG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>2990</RunwayLengthFeet>
+    <RunwayElevationFeet>10</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>15</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>105</LongitudeDegree>
+    <LongitudeMinute>57</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>SGN</AirportCode>
+    <CityOrAirportName>HO CHI MINH SON NHUT</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>9960</RunwayLengthFeet>
+    <RunwayElevationFeet>33</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>49</LatitudeMinute>
+    <LatitudeSecond>8</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>39</LongitudeMinute>
+    <LongitudeSeconds>53</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>SGN</AirportCode>
+    <CityOrAirportName>HO CHI MINH SON NHUT</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>9960</RunwayLengthFeet>
+    <RunwayElevationFeet>33</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>49</LatitudeMinute>
+    <LatitudeSecond>8</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>39</LongitudeMinute>
+    <LongitudeSeconds>53</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HOO</AirportCode>
+    <CityOrAirportName>QUANG DUC NHON CO</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>4230</RunwayLengthFeet>
+    <RunwayElevationFeet>2230</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>59</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>107</LongitudeDegree>
+    <LongitudeMinute>34</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HOO</AirportCode>
+    <CityOrAirportName>QUANG DUC NHON CO</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>4230</RunwayLengthFeet>
+    <RunwayElevationFeet>2230</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>59</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>107</LongitudeDegree>
+    <LongitudeMinute>34</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HPH</AirportCode>
+    <CityOrAirportName>HAIPHONG CATBI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>0</RunwayElevationFeet>
+    <LatitudeDegree>20</LatitudeDegree>
+    <LatitudeMinute>49</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>34</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HPH</AirportCode>
+    <CityOrAirportName>HAIPHONG CATBI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>0</RunwayElevationFeet>
+    <LatitudeDegree>20</LatitudeDegree>
+    <LatitudeMinute>49</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>34</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HUI</AirportCode>
+    <CityOrAirportName>HUE PHU BAI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>6562</RunwayLengthFeet>
+    <RunwayElevationFeet>49</RunwayElevationFeet>
+    <LatitudeDegree>16</LatitudeDegree>
+    <LatitudeMinute>24</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>107</LongitudeDegree>
+    <LongitudeMinute>41</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>HUI</AirportCode>
+    <CityOrAirportName>HUE PHU BAI</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>6562</RunwayLengthFeet>
+    <RunwayElevationFeet>49</RunwayElevationFeet>
+    <LatitudeDegree>16</LatitudeDegree>
+    <LatitudeMinute>24</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>107</LongitudeDegree>
+    <LongitudeMinute>41</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>CSJ</AirportCode>
+    <CityOrAirportName>CAPE ST JACQUES</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>0</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>21</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>107</LongitudeDegree>
+    <LongitudeMinute>4</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>CSJ</AirportCode>
+    <CityOrAirportName>CAPE ST JACQUES</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>0</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>21</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>107</LongitudeDegree>
+    <LongitudeMinute>4</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>DAD</AirportCode>
+    <CityOrAirportName>DA NANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>10000</RunwayLengthFeet>
+    <RunwayElevationFeet>30</RunwayElevationFeet>
+    <LatitudeDegree>16</LatitudeDegree>
+    <LatitudeMinute>2</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>11</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>DAD</AirportCode>
+    <CityOrAirportName>DA NANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>10000</RunwayLengthFeet>
+    <RunwayElevationFeet>30</RunwayElevationFeet>
+    <LatitudeDegree>16</LatitudeDegree>
+    <LatitudeMinute>2</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>11</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>DLI</AirportCode>
+    <CityOrAirportName>DALAT LIENKHANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>4856</RunwayLengthFeet>
+    <RunwayElevationFeet>3156</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>45</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>22</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>DLI</AirportCode>
+    <CityOrAirportName>DALAT LIENKHANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>4856</RunwayLengthFeet>
+    <RunwayElevationFeet>3156</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>45</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>22</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>TBB</AirportCode>
+    <CityOrAirportName>TUY HOA</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>7</GMTOffset>
+    <RunwayLengthFeet>9500</RunwayLengthFeet>
+    <RunwayElevationFeet>28</RunwayElevationFeet>
+    <LatitudeDegree>13</LatitudeDegree>
+    <LatitudeMinute>5</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>109</LongitudeDegree>
+    <LongitudeMinute>17</LongitudeMinute>
+    <LongitudeSeconds>30</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>TBB</AirportCode>
+    <CityOrAirportName>TUY HOA</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>7</GMTOffset>
+    <RunwayLengthFeet>9500</RunwayLengthFeet>
+    <RunwayElevationFeet>28</RunwayElevationFeet>
+    <LatitudeDegree>13</LatitudeDegree>
+    <LatitudeMinute>5</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>109</LongitudeDegree>
+    <LongitudeMinute>17</LongitudeMinute>
+    <LongitudeSeconds>30</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>KON</AirportCode>
+    <CityOrAirportName>KONTUM</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3600</RunwayLengthFeet>
+    <RunwayElevationFeet>1804</RunwayElevationFeet>
+    <LatitudeDegree>14</LatitudeDegree>
+    <LatitudeMinute>21</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>1</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>KON</AirportCode>
+    <CityOrAirportName>KONTUM</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3600</RunwayLengthFeet>
+    <RunwayElevationFeet>1804</RunwayElevationFeet>
+    <LatitudeDegree>14</LatitudeDegree>
+    <LatitudeMinute>21</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>1</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PHA</AirportCode>
+    <CityOrAirportName>PHAN RANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>10000</RunwayLengthFeet>
+    <RunwayElevationFeet>102</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>37</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>57</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PHA</AirportCode>
+    <CityOrAirportName>PHAN RANG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>10000</RunwayLengthFeet>
+    <RunwayElevationFeet>102</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>37</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>57</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PHH</AirportCode>
+    <CityOrAirportName>PHAN THIET</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3580</RunwayLengthFeet>
+    <RunwayElevationFeet>203</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>54</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>4</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PHH</AirportCode>
+    <CityOrAirportName>PHAN THIET</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3580</RunwayLengthFeet>
+    <RunwayElevationFeet>203</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>54</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>4</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PHU</AirportCode>
+    <CityOrAirportName>PHU-VINH</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3700</RunwayLengthFeet>
+    <RunwayElevationFeet>180</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>17</LatitudeMinute>
+    <LatitudeSecond>55</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>48</LongitudeMinute>
+    <LongitudeSeconds>15</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PHU</AirportCode>
+    <CityOrAirportName>PHU-VINH</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3700</RunwayLengthFeet>
+    <RunwayElevationFeet>180</RunwayElevationFeet>
+    <LatitudeDegree>11</LatitudeDegree>
+    <LatitudeMinute>17</LatitudeMinute>
+    <LatitudeSecond>55</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>106</LongitudeDegree>
+    <LongitudeMinute>48</LongitudeMinute>
+    <LongitudeSeconds>15</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PQC</AirportCode>
+    <CityOrAirportName>PHUQUOC DUONG/DONG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3280</RunwayLengthFeet>
+    <RunwayElevationFeet>23</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>14</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>103</LongitudeDegree>
+    <LongitudeMinute>58</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PQC</AirportCode>
+    <CityOrAirportName>PHUQUOC DUONG/DONG</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>3280</RunwayLengthFeet>
+    <RunwayElevationFeet>23</RunwayElevationFeet>
+    <LatitudeDegree>10</LatitudeDegree>
+    <LatitudeMinute>14</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>103</LongitudeDegree>
+    <LongitudeMinute>58</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PXU</AirportCode>
+    <CityOrAirportName>PLEIKU</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>5906</RunwayLengthFeet>
+    <RunwayElevationFeet>2438</RunwayElevationFeet>
+    <LatitudeDegree>14</LatitudeDegree>
+    <LatitudeMinute>0</LatitudeMinute>
+    <LatitudeSecond>11</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>1</LongitudeMinute>
+    <LongitudeSeconds>17</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+  <TableAirport>
+    <AirportCode>PXU</AirportCode>
+    <CityOrAirportName>PLEIKU</CityOrAirportName>
+    <Country>Viet Nam</Country>
+    <CountryAbbrviation>VN</CountryAbbrviation>
+    <CountryCode>791</CountryCode>
+    <GMTOffset>-7</GMTOffset>
+    <RunwayLengthFeet>5906</RunwayLengthFeet>
+    <RunwayElevationFeet>2438</RunwayElevationFeet>
+    <LatitudeDegree>14</LatitudeDegree>
+    <LatitudeMinute>0</LatitudeMinute>
+    <LatitudeSecond>11</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>108</LongitudeDegree>
+    <LongitudeMinute>1</LongitudeMinute>
+    <LongitudeSeconds>17</LongitudeSeconds>
+    <LongitudeEperW>E</LongitudeEperW>
+  </TableAirport>
+</Airport>

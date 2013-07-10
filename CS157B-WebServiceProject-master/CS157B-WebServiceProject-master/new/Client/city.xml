@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TableCity>
+    <Country>Belarus</Country>
+    <City>Riga Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Mauritius</Country>
+    <City>Plaisance Mauritius</City>
+  </TableCity>
+  <TableCity>
+    <Country>Mauritius</Country>
+    <City>Rodrigues</City>
+  </TableCity>
+  <TableCity>
+    <Country>Cyprus</Country>
+    <City>Ercan</City>
+  </TableCity>
+  <TableCity>
+    <Country>Cyprus</Country>
+    <City>Larnaca Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Cyprus</Country>
+    <City>Athalassa</City>
+  </TableCity>
+  <TableCity>
+    <Country>Cyprus</Country>
+    <City>Paphos Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Cyprus</Country>
+    <City>Akrotiri</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Niederosterreich / Lugplatz  Vos</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Graz-Thalerhof-Flughafen</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Innsbruck-Flughafen</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Klagenfurt-Flughafen</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Linz / Hoersching-Flughafen</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Salzburg-Flughafen</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Wien / Schwechat-Flughafen</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Aigen Im Ennstal</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Horsching Aus-Afb</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Schwaz Heliport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Tulln</City>
+  </TableCity>
+  <TableCity>
+    <Country>Austria</Country>
+    <City>Zeltweg</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Jakutsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Cul'Man</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Ekimchan</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Habarovsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Troickoe</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Anadyr</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Buhta Providenja</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Magadan</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Petropavlovsk-Kamchatskij</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Juzhno-Sahalinsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Vladivostok</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Chita</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Irkutsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Ust'Ordynskij</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Bodajbo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Kirensk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Nizhneudinsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Horinsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Ulan-Ude</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Arhangel'Sk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Kotlas</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>St. Peterburg</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Murmansk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Velikie Luki</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Tot'Ma</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Vologda</City>
+  </TableCity>
+  <TableCity>
+    <Country>Belarus</Country>
+    <City>Vitebsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Belarus</Country>
+    <City>Minsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Barnaul</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Enisejsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Novosibirsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Krasnodar</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Mineral'Nye Vody</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Rostov-Na-Donu</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Adler</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Elista</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Volgograd</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Hanty-Mansijsk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Surgut</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Ekaterinburg</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Brjansk</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Moscow / Sheremet'Ye</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Tver</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Voronez</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Moscow / Vnukovo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Ust', Kulom</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Syktyvkar</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Penza</City>
+  </TableCity>
+  <TableCity>
+    <Country>Russian Federation</Country>
+    <City>Samara</City>
+  </TableCity>
+  <TableCity>
+    <Country>Brunei Darussalam</Country>
+    <City>Brunei Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Archerfield Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Amberley Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Alice Springs Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Brisbane Airport M. O</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Coolangatta Airport Aws</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Cairns Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Charleville Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Gladstone</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Longreach Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Mount Isa Amo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Mackay Mo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Oakey Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Proserpine Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Rockhampton Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Broome Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Townsville Amo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Weipa City</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Gove Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Tennant Creek Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Yulara Aws</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Albury Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Devonport East</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Goldstream Aws</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>East Sale Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Hobart Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Launceston Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Laverton Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Moorabbin Airport Aws</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Mount Gambier Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Mildura Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Melbourne Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Macquarie Island</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Wynyard West</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Adelaide Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Albany Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Broken Hill Patton Street</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Ceduna Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Derby</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Darwin Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Bullsbrook Pearce Amo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Edinburgh M. O.</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Forrest Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Geraldton Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Kalgoorlie Boulder Amo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Kununurra Kununurra Aws</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Leigh Creek Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Learmonth Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Meekatharra Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Port Hedland Pardoo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Parafield Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Belmont Perth Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Katherine Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Woomera Aerodrome</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Bankstown Airport Aws</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Canberra</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Coffs Harbour Mo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Cooma</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Camden Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Dubbo</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Norfolk Island Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Nowra Ran Air Station</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Richmond Aus-Afb</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Sydney Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Tamworth Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Wagga Airport</City>
+  </TableCity>
+  <TableCity>
+    <Country>Australia</Country>
+    <City>Williamtown Aerodrome</City>
+  </TableCity>
+</Cities>

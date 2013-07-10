@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="city.xsd">
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Da Nang</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Ha Noi</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Nha Trang</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Hue</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Pleiku City</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Quy Nhon</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Ho Chi Minh</City>
+  </TableCity>
+  <TableCity>
+    <Country>Viet Nam</Country>
+    <City>Vinh</City>
+  </TableCity>
+</Cities>

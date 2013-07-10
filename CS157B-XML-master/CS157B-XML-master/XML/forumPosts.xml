@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<forumPostList>
+	<forumPost>
+        <content>I hate Pascal!</content>
+        <thread>I hate using PASCAL! It sucks!</thread>
+        <user>Frank</user>
+    </forumPost>
+    <forumPost>
+        <content>I really love pascal! It is the greatest thing in the world! What do you think?</content>
+        <user>Mac</user>
+        <thread>I hate using PASCAL! It sucks!</thread>
+    </forumPost>
+    <forumPost>
+       	<content>I agree!!! ^^^</content>
+       	<thread>I hate using PASCAL! It sucks!</thread>
+       	<user>Charlie</user>
+    </forumPost>
+    <forumPost>
+        <content>Such a bad language!</content>
+        <thread>I hate using PASCAL! It sucks!</thread>
+        <user>Dee</user>
+    </forumPost>
+</forumPostList>

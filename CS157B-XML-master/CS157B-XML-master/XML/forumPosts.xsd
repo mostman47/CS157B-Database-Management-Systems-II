@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:complexType name="forumPost_type">
+        <xs:element name="content" type="xs:string"/>
+        <xs:element name="thread" type="xs:string"/>
+        <xs:element name="user" type="xs:string"/>
+    </xs:complexType>
+    <xs:element name="forumPostList" type="forumPostList_type"/>
+</xs:schema>

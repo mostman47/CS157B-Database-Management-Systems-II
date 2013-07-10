@@ -1,0 +1,14 @@
+query-1 output: 
+	<name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Computers are so cool!</name>
+
+query-2 output: 
+	<name>Charlie</name><content>I agree!!! ^^^</content><name>Dee</name><content>Such a bad language!</content><name>Frank</name><content>I hate Pascal!</content><name>Mac</name><content>I really love pascal! It is the greatest thing in the world! What do you think?</content>
+
+query-3 output: 
+	<name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">I hate using PASCAL! It sucks!</name><content>I hate Pascal!</content><user>Frank</user><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">I hate using PASCAL! It sucks!</name><content>I really love pascal! It is the greatest thing in the world! What do you think?</content><user>Mac</user><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">I hate using PASCAL! It sucks!</name><content>I agree!!! ^^^</content><user>Charlie</user><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">I hate using PASCAL! It sucks!</name><content>Such a bad language!</content><user>Dee</user>
+
+query-4 output: 
+	<name>CS157B</name><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">What did you think of Star Wars?</name><name>CS157B</name><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Can you believe all these n00bs?</name><name>CS157B</name><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">I hate using PASCAL! It sucks!</name><name>Computer Forum</name><name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Computers are so cool!</name>
+
+query-5 output: 
+	<name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">What did you think of Star Wars?</name>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Folder FolderName="XML Files" ExtStr="xml;cml;math;rdf;smil;svg;wml">
+		<File FilePath="forum.xml" HomeFolder="Yes"/>
+		<File FilePath="forumPosts.xml" HomeFolder="Yes"/>
+		<File FilePath="thread.xml" HomeFolder="Yes"/>
+		<File FilePath="user.xml" HomeFolder="Yes"/>
+		<File FilePath="userDetails.xml" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
+	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery">
+		<File FilePath="query-1.xql" HomeFolder="Yes"/>
+		<File FilePath="query-2.xql" HomeFolder="Yes"/>
+		<File FilePath="query-3.xql" HomeFolder="Yes"/>
+		<File FilePath="query-4.xql" HomeFolder="Yes"/>
+		<File FilePath="query-5.xql" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
+	<Folder FolderName="DTD/Schemas" ExtStr="dtd;dcd;xdr;biz;xsd">
+		<File FilePath="forum.xsd" HomeFolder="Yes"/>
+		<File FilePath="forumPosts.xsd" HomeFolder="Yes"/>
+		<File FilePath="thread.xsd" HomeFolder="Yes"/>
+		<File FilePath="user.xsd" HomeFolder="Yes"/>
+		<File FilePath="userDetails.xsd" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="Entities" ExtStr="ent"/>
+</Project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/mr.nam/Google%20Drive/Cs157B/Project/test/../../../../Documents/GitHub/WebServiceProject/airport.xsd" uri="xml-resources/jaxb/airport/airport.xsd"/>
+    <system systemId="file:/C:/Users/mr.nam/Google%20Drive/Cs157B/Project/test/../../../../Documents/GitHub/WebServiceProject/city.xsd" uri="xml-resources/jaxb/city/city.xsd"/>
+    <system systemId="file:/C:/Users/mr.nam/Google%20Drive/Cs157B/Project/test/city.xsd" uri="xml-resources/jaxb/city/city.xsd"/>
+    <system systemId="file:/C:/Users/mr.nam/Google%20Drive/Cs157B/Project/test/catalog.xsd" uri="xml-resources/jaxb/343/catalog.xsd"/>
+    <system systemId="file:/C:/Users/mr.nam/Google%20Drive/Cs157B/Project/test/weather.xsd" uri="xml-resources/jaxb/dsd/weather.xsd"/>
+    <system systemId="file:/C:/Users/mr.nam/Google%20Drive/Cs157B/Project/test/airport.xsd" uri="xml-resources/jaxb/sdf/airport.xsd"/>
+    <system systemId="http://localhost:18208/WeatherAirportWS/WeatherAirportWS?wsdl" uri="wsdl/localhost_18208/WeatherAirportWS/WeatherAirportWS.wsdl"/>
+    <system systemId="http://localhost:18208/WeatherAirportWS/WeatherAirportWS?xsd=1" uri="wsdl/localhost_18208/WeatherAirportWS/WeatherAirportWS.xsd_1.xsd"/>
+</catalog>

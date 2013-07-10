@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Airport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="airport.xsd">
+	<TableAirport>
+		<AirportCode>SJC</AirportCode>
+		<CityOrAirportName>SAN JOSE</CityOrAirportName>
+		<Country>United States</Country>
+		<CountryAbbrviation>US</CountryAbbrviation>
+		<CountryCode>91</CountryCode>
+		<GMTOffset>8</GMTOffset>
+		<RunwayLengthFeet>8899</RunwayLengthFeet>
+		<RunwayElevationFeet>56</RunwayElevationFeet>
+		<LatitudeDegree>37</LatitudeDegree>
+		<LatitudeMinute>21</LatitudeMinute>
+		<LatitudeSecond>10</LatitudeSecond>
+		<LatitudeNpeerS>N</LatitudeNpeerS>
+		<LongitudeDegree>121</LongitudeDegree>
+		<LongitudeMinute>55</LongitudeMinute>
+		<LongitudeSeconds>10</LongitudeSeconds>
+		<LongitudeEperW>W</LongitudeEperW>
+	</TableAirport>
+	<TableAirport>
+		<AirportCode>SJC</AirportCode>
+		<CityOrAirportName>SAN JOSE</CityOrAirportName>
+		<Country>United States</Country>
+		<CountryAbbrviation>US</CountryAbbrviation>
+		<CountryCode>91</CountryCode>
+		<GMTOffset>8</GMTOffset>
+		<RunwayLengthFeet>8899</RunwayLengthFeet>
+		<RunwayElevationFeet>56</RunwayElevationFeet>
+		<LatitudeDegree>37</LatitudeDegree>
+		<LatitudeMinute>21</LatitudeMinute>
+		<LatitudeSecond>10</LatitudeSecond>
+		<LatitudeNpeerS>N</LatitudeNpeerS>
+		<LongitudeDegree>121</LongitudeDegree>
+		<LongitudeMinute>55</LongitudeMinute>
+		<LongitudeSeconds>10</LongitudeSeconds>
+		<LongitudeEperW>W</LongitudeEperW>
+	</TableAirport>
+	<TableAirport>
+		<AirportCode>SJS</AirportCode>
+		<CityOrAirportName>SAN JOSE</CityOrAirportName>
+		<Country>Bolivia</Country>
+		<CountryAbbrviation>BO</CountryAbbrviation>
+		<CountryCode>312</CountryCode>
+		<GMTOffset>4</GMTOffset>
+		<RunwayLengthFeet>3936</RunwayLengthFeet>
+		<RunwayElevationFeet>974</RunwayElevationFeet>
+		<LatitudeDegree>17</LatitudeDegree>
+		<LatitudeMinute>49</LatitudeMinute>
+		<LatitudeSecond>0</LatitudeSecond>
+		<LatitudeNpeerS>S</LatitudeNpeerS>
+		<LongitudeDegree>60</LongitudeDegree>
+		<LongitudeMinute>45</LongitudeMinute>
+		<LongitudeSeconds>0</LongitudeSeconds>
+		<LongitudeEperW>W</LongitudeEperW>
+	</TableAirport>
+	<TableAirport>
+		<AirportCode>SJS</AirportCode>
+		<CityOrAirportName>SAN JOSE</CityOrAirportName>
+		<Country>Bolivia</Country>
+		<CountryAbbrviation>BO</CountryAbbrviation>
+		<CountryCode>312</CountryCode>
+		<GMTOffset>4</GMTOffset>
+		<RunwayLengthFeet>3936</RunwayLengthFeet>
+		<RunwayElevationFeet>974</RunwayElevationFeet>
+		<LatitudeDegree>17</LatitudeDegree>
+		<LatitudeMinute>49</LatitudeMinute>
+		<LatitudeSecond>0</LatitudeSecond>
+		<LatitudeNpeerS>S</LatitudeNpeerS>
+		<LongitudeDegree>60</LongitudeDegree>
+		<LongitudeMinute>45</LongitudeMinute>
+		<LongitudeSeconds>0</LongitudeSeconds>
+		<LongitudeEperW>W</LongitudeEperW>
+	</TableAirport>
+</Airport>
